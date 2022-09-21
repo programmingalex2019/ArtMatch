@@ -1,0 +1,181 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.48.4
+Flutter extension: 3.48.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.70.1
+Platform: linux
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Wed Sep 21 2022 [04:59:20 GMT-0400 (Eastern Daylight Time)] Log file started
+[4:59:20 AM] [General] [Info] Searching for SDKs...
+[4:59:20 AM] [General] [Info] Environment PATH:
+[4:59:20 AM] [General] [Info]     /home/alex/.local/bin
+[4:59:20 AM] [General] [Info]     /usr/local/bin
+[4:59:20 AM] [General] [Info]     /usr/bin
+[4:59:20 AM] [General] [Info]     /bin
+[4:59:20 AM] [General] [Info]     /usr/local/games
+[4:59:20 AM] [General] [Info]     /usr/games
+[4:59:20 AM] [General] [Info]     /snap/bin
+[4:59:20 AM] [General] [Info]     /usr/local/go/bin
+[4:59:20 AM] [General] [Info]     /home/alex/.pub-cache/bin
+[4:59:20 AM] [General] [Info]     /usr/local/go/bin
+[4:59:20 AM] [General] [Info]     /home/alex/projects/bin
+[4:59:20 AM] [General] [Info] Took 128ms to search for projects (5 levels)
+[4:59:20 AM] [General] [Info] Took 2ms to filter out excluded projects (0 exclusion rules)
+[4:59:20 AM] [General] [Info] Found Flutter project at /home/alex/Desktop/hackathon/app:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[4:59:20 AM] [General] [Info] Searching for flutter
+[4:59:20 AM] [General] [Info]     Looking for flutter in:
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app/bin
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app/.flutter
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app/.flutter/bin
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app/vendor/flutter
+[4:59:20 AM] [General] [Info]         /home/alex/Desktop/hackathon/app/vendor/flutter/bin
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin
+[4:59:20 AM] [General] [Info]         /home/alex/flutter-sdk
+[4:59:20 AM] [General] [Info]         /home/alex/flutter-sdk/bin
+[4:59:20 AM] [General] [Info]         /google/flutter
+[4:59:20 AM] [General] [Info]         /google/flutter/bin
+[4:59:20 AM] [General] [Info]         /home/alex/.local/bin
+[4:59:20 AM] [General] [Info]         /usr/local/bin
+[4:59:20 AM] [General] [Info]         /usr/bin
+[4:59:20 AM] [General] [Info]         /bin
+[4:59:20 AM] [General] [Info]         /usr/local/games
+[4:59:20 AM] [General] [Info]         /usr/local/games/bin
+[4:59:20 AM] [General] [Info]         /usr/games
+[4:59:20 AM] [General] [Info]         /usr/games/bin
+[4:59:20 AM] [General] [Info]         /snap/bin
+[4:59:20 AM] [General] [Info]         /usr/local/go/bin
+[4:59:20 AM] [General] [Info]         /home/alex/.pub-cache/bin
+[4:59:20 AM] [General] [Info]         /usr/local/go/bin
+[4:59:20 AM] [General] [Info]         /home/alex/projects/bin
+[4:59:20 AM] [General] [Info]     Found at:
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin
+[4:59:20 AM] [General] [Info]         /snap/bin
+[4:59:20 AM] [General] [Info] Following symlink: /snap/bin/flutter ==> /usr/bin/snap
+[4:59:20 AM] [General] [Info] Target snap is not flutter, assuming /snap/bin/flutter is a package manager init script
+[4:59:20 AM] [General] [Info]     Candidate paths to be post-filtered:
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter
+[4:59:20 AM] [General] [Info]         /snap/bin/flutter
+[4:59:20 AM] [General] [Info]     Found at /home/alex/snap/flutter/common/flutter
+[4:59:20 AM] [General] [Info]     Returning SDK path /home/alex/snap/flutter/common/flutter for flutter
+[4:59:20 AM] [General] [Info] Searching for dart
+[4:59:20 AM] [General] [Info]     Looking for dart in:
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk/bin
+[4:59:20 AM] [General] [Info]         /home/alex/.local/bin
+[4:59:20 AM] [General] [Info]         /usr/local/bin
+[4:59:20 AM] [General] [Info]         /usr/bin
+[4:59:20 AM] [General] [Info]         /bin
+[4:59:20 AM] [General] [Info]         /usr/local/games
+[4:59:20 AM] [General] [Info]         /usr/local/games/bin
+[4:59:20 AM] [General] [Info]         /usr/games
+[4:59:20 AM] [General] [Info]         /usr/games/bin
+[4:59:20 AM] [General] [Info]         /snap/bin
+[4:59:20 AM] [General] [Info]         /usr/local/go/bin
+[4:59:20 AM] [General] [Info]         /home/alex/.pub-cache/bin
+[4:59:20 AM] [General] [Info]         /usr/local/go/bin
+[4:59:20 AM] [General] [Info]         /home/alex/projects/bin
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk/bin
+[4:59:20 AM] [General] [Info]     Found at:
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk/bin
+[4:59:20 AM] [General] [Info]         /usr/bin
+[4:59:20 AM] [General] [Info]         /bin
+[4:59:20 AM] [General] [Info]         /snap/bin
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk/bin
+[4:59:20 AM] [General] [Info] Following symlink: /usr/bin/dart ==> /usr/lib/dart/bin/dart
+[4:59:20 AM] [General] [Info] Following symlink: /bin/dart ==> /usr/lib/dart/bin/dart
+[4:59:20 AM] [General] [Info] Following symlink: /snap/bin/dart ==> /usr/bin/snap
+[4:59:20 AM] [General] [Info] Target snap is not dart, assuming /snap/bin/dart is a package manager init script
+[4:59:20 AM] [General] [Info]     Candidate paths to be post-filtered:
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+[4:59:20 AM] [General] [Info]         /usr/lib/dart
+[4:59:20 AM] [General] [Info]         /usr/lib/dart
+[4:59:20 AM] [General] [Info]         /snap/bin/dart
+[4:59:20 AM] [General] [Info]         /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+[4:59:20 AM] [General] [Info]     Found at /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+[4:59:20 AM] [General] [Info]     Returning SDK path /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk for dart
+[4:59:20 AM] [General] [Info] Experiment random number is 43 for experiment 'sdkDaps'. Experiment is enabled for <= 10
+[4:59:20 AM] [General] [Info] Experiment 'sdkDaps' does not apply and will not be activated
+[4:59:20 AM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.48.4
+Flutter extension: 3.48.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.70.1
+Platform: linux
+
+Workspace type: Flutter
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+    Ver: 2.17.6
+Flutter SDK:
+    Loc: /home/alex/snap/flutter/common/flutter
+    Ver: 3.0.5
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[4:59:20 AM] [General] [Info] Returning cached results for project search
+[4:59:20 AM] [General] [Info] Activating Flutter extension for Flutter project...
+[4:59:20 AM] [General] [Info] Extension:Startup timing: 279ms
+[4:59:20 AM] [General] [Info] Found 0 folders requiring "pub get":
+[4:59:20 AM] [General] [Info] Caching Pub package names from pub.dev...
+[4:59:21 AM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.48.4
+Flutter extension: 3.48.0 (activated)
+
+App: Visual Studio Code
+Version: 1.70.1
+Platform: linux
+
+Workspace type: Flutter
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: /home/alex/snap/flutter/common/flutter/bin/cache/dart-sdk
+    Ver: 2.17.6
+Flutter SDK:
+    Loc: /home/alex/snap/flutter/common/flutter
+    Ver: 3.0.5
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[4:59:22 AM] [General] [Info] Analyzer:Startup timing: 1827ms
+[4:59:26 AM] [General] [Info] Returning cached results for project search
+[4:59:26 AM] [General] [Info] Checking 1 projects for supported platforms
+[4:59:26 AM] [General] [Info] Supported platforms for the workspace are linux, macos, windows, ios, android, web
+[4:59:27 AM] [General] [Info] Analyzer:FirstAnalysis timing: 3182ms
+[4:59:40 AM] [General] [Info] Returning cached results for project search
+[4:59:42 AM] [General] [Info] Pubspec /home/alex/Desktop/hackathon/app/pubspec.yaml was modified
+[4:59:43 AM] [General] [Info] Returning cached results for project search
+[4:59:43 AM] [General] [Info] Found 1 folders requiring "pub get":
+    /home/alex/Desktop/hackathon/app
+[4:59:48 AM] [General] [Info] Returning cached results for project search
+[7:51:46 AM] [General] [Info] Pubspec /home/alex/Desktop/hackathon/app/pubspec.yaml was modified
+[7:51:47 AM] [General] [Info] Took 15ms to search for projects (5 levels)
+[7:51:47 AM] [General] [Info] Took 4ms to filter out excluded projects (0 exclusion rules)
+[7:51:47 AM] [General] [Info] Found 1 folders requiring "pub get":
+    /home/alex/Desktop/hackathon/app
+[7:51:50 AM] [General] [Info] Returning cached results for project search
